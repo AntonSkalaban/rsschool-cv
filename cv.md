@@ -1,11 +1,11 @@
 # Anton Skalaban
 ## Contacts
 * **Location:** Soligorsk, Belarus
-* **-mail:** AntonSkalaban@gmail.com
+* **E-mail:** AntonSkalaban@gmail.com
 * **Discord:** AntonSkalaban
 * **GitHub:** AntonSkalaban
 ## About Me
-*Will be soon..*
+ Enthusiastic, attentive, open to learning everything new. Sharpening my front-end programming skills for bigger, more complex tasks in the future
 ## Skills
 * HTML
 * CSS
@@ -13,7 +13,7 @@
 ## Code Example
 ```
 function sumTwoSmallestNumbers(numbers){  
-  numbers = numbers.sort((a, b) a - b);
+  numbers = numbers.sort((a, b) => a - b);
   return numbers[0] + numbers[1];
 };
 
@@ -21,7 +21,8 @@ function sumTwoSmallestNumbers(numbers){
 ## Experience
 *Nothing yet…*
 ## Education
- *Student of the Belarusian National Technical University
+ * (2015-2019) - Student of Branch of BNTU "Soligorsk State Mining and Chemical College"
+ * (since 2019) - Student of Belarusian National Technical University
 ## English
-A1
+A1*(But I`m trying to improve my skills)*
 
