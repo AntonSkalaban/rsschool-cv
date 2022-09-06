@@ -2,7 +2,7 @@
 ## Contacts
 * **Location:** Soligorsk, Belarus
 * **E-mail:** AntonSkalaban@gmail.com
-* **Discord:** [AntonSkalaban№7305](https://discord.com/channels/@me)
+* **Discord:** [AntonSkalaban#7305](https://discord.com/channels/@me)
 * **GitHub:** [AntonSkalaban](https://github.com/AntonSkalaban)
 ## About Me
  Enthusiastic, attentive, open to learning everything new. Sharpening my front-end programming skills for bigger, more complex tasks in the future.
