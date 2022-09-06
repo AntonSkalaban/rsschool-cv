@@ -24,5 +24,5 @@ function sumTwoSmallestNumbers(numbers){
  * (2015-2019) - Student of Branch of BNTU "Soligorsk State Mining and Chemical College"
  * (Since 2019) - Student of Belarusian National Technical University
 ## English
-A1*(But I`m trying to improve my skills)*
+A1(*But I`m trying to improve my skills*)
 
