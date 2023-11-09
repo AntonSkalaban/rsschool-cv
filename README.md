@@ -16,6 +16,9 @@ Discord: **antonskalaban**
 * Redux
 * Node.js
 
+## Education
+COLLEGE [ Electromechanic ]
+UNIVERSITY [ Mining engineer ]
 
 ## Languages
 ENGLISH [ B2 ]
