@@ -15,3 +15,9 @@ Discord: **antonskalaban**
 * React
 * Redux
 * Node.js
+
+
+## Languages
+ENGLISH [ B2 ]
+Belarusian [ native ]
+RUSSIAN [ native ]
