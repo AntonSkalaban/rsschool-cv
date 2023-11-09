@@ -3,7 +3,7 @@
 ## Contacts
 Telegram: **@Aazzbbc**
 <br />
-Email: *antonskalaban99gmail.com**
+Email: **antonskalaban99gmail.com**
 <br />
 Discord: **antonskalaban**
 
@@ -21,6 +21,8 @@ COLLEGE [ Electromechanic ]
 UNIVERSITY [ Mining engineer ]
 
 ## Languages
-ENGLISH [ B2 ]
+Engolish [ B2 ]
+<br />
 Belarusian [ native ]
+<br />
 RUSSIAN [ native ]
